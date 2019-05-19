@@ -1,4 +1,4 @@
-# [587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+# [587. Erect the Fence](https://leetcode-cn.com/problems/erect-the-fence/)
 
 ## 题目
 
@@ -12,7 +12,7 @@ Output: [[1,1],[2,0],[4,2],[3,3],[2,4]]
 Explanation:
 ```
 
-![e1](https://leetcode.com/static/images/problemset/erect_the_fence_1.png)
+![e1](https://leetcode-cn.com/static/images/problemset/erect_the_fence_1.png)
 
 Example 2:
 
@@ -23,7 +23,7 @@ Explanation:
 Even you only have trees in a line, you need to use rope to enclose them.
 ```
 
-![e2](https://leetcode.com/static/images/problemset/erect_the_fence_2.png)
+![e2](https://leetcode-cn.com/static/images/problemset/erect_the_fence_2.png)
 
 Note:
 

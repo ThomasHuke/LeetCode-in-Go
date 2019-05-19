@@ -1,4 +1,4 @@
-# [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+# [956. Tallest Billboard](https://leetcode-cn.com/problems/tallest-billboard/)
 
 You are installing a billboard and want it to have the largest height.  The billboard will have two steel supports, one on each side.  Each steel support must be an equal height.
 

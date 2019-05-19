@@ -9,7 +9,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/aQuaYi/GoKit"
+	"github.com/imgoogege/GoKit"
 )
 
 func buildProblemDir(problemNum int) {

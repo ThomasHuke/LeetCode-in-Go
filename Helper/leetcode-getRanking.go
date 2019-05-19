@@ -10,7 +10,7 @@ import (
 // getRanking 让这个方法优雅一点
 func getRanking() int {
 	// 获取网页数据
-	URL := fmt.Sprintf("https://leetcode.com/%s/", getConfig().Username)
+	URL := fmt.Sprintf("https://leetcode-cn.com/%s/", getConfig().Username)
 	data := getRaw(URL)
 	str := string(data)
 

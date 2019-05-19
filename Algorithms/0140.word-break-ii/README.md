@@ -1,4 +1,4 @@
-# [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
+# [140. Word Break II](https://leetcode-cn.com/problems/word-break-ii/)
 
 ## 题目
 Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, add spaces in s to construct a sentence where each word is a valid dictionary word. You may assume the dictionary does not contain duplicate words.

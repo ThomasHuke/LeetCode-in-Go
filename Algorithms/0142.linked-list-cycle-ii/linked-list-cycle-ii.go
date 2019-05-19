@@ -1,11 +1,11 @@
 package problem0142
 
-import "github.com/aQuaYi/LeetCode-in-Go/kit"
+import "github.com/imgoogege/LeetCode-in-Go/kit"
 
 // ListNode is pre-defined...
 type ListNode = kit.ListNode
 
-// https://leetcode.com/problems/linked-list-cycle-ii/discuss/44793/O(n)-solution-by-using-two-pointers-without-change-anything
+// https://leetcode-cn.com/problems/linked-list-cycle-ii/discuss/44793/O(n)-solution-by-using-two-pointers-without-change-anything
 func detectCycle(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
 		return nil

@@ -1,4 +1,4 @@
-# [68. Text Justification](https://leetcode.com/problems/text-justification/)
+# [68. Text Justification](https://leetcode-cn.com/problems/text-justification/)
 
 ## 题目
 Given an array of words and a length L, format the text such that each line has exactly L characters and is fully (left and right) justified.

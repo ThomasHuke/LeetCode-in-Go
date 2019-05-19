@@ -1,4 +1,4 @@
-# [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+# [99. Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)
 
 ## 题目
 Two elements of a binary search tree (BST) are swapped by mistake.

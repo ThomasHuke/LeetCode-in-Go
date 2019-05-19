@@ -1,4 +1,4 @@
-# [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+# [228. Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/)
 
 ## 题目
 Given a sorted integer array without duplicates, return the summary of its ranges.

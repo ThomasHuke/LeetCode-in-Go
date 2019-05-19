@@ -1,4 +1,4 @@
-# [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+# [164. Maximum Gap](https://leetcode-cn.com/problems/maximum-gap/)
 
 ## 题目
 Given an unsorted array, find the maximum difference between the successive elements in its sorted form.

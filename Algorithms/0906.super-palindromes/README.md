@@ -1,4 +1,4 @@
-# [906. Super Palindromes](https://leetcode.com/problems/super-palindromes/)
+# [906. Super Palindromes](https://leetcode-cn.com/problems/super-palindromes/)
 
 Let's say a positive integer is a *superpalindrome* if it is a palindrome, and it is also the square of a palindrome.
 

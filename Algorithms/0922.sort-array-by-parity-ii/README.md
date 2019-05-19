@@ -1,4 +1,4 @@
-# [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+# [922. Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
 
 Given an array `A` of non-negative integers, half of the integers in A are odd, and half of the integers are even.
 

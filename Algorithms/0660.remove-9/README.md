@@ -1,4 +1,4 @@
-# [660. Remove 9](https://leetcode.com/problems/remove-9/)
+# [660. Remove 9](https://leetcode-cn.com/problems/remove-9/)
 
 ## 题目
 Start from integer 1, remove any integer that contains 9 such as 9, 19, 29...

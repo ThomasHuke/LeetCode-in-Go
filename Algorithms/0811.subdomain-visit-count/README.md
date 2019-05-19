@@ -1,21 +1,21 @@
-# [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+# [811. Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/)
 
 ## 题目
 
-A website domain like "discuss.leetcode.com" consists of various subdomains. At the top level, we have "com", at the next level, we have "leetcode.com", and at the lowest level, "discuss.leetcode.com". When we visit a domain like "discuss.leetcode.com", we will also visit the parent domains "leetcode.com" and "com" implicitly.
+A website domain like "discuss.leetcode-cn.com" consists of various subdomains. At the top level, we have "com", at the next level, we have "leetcode-cn.com", and at the lowest level, "discuss.leetcode-cn.com". When we visit a domain like "discuss.leetcode-cn.com", we will also visit the parent domains "leetcode-cn.com" and "com" implicitly.
 
-Now, call a "count-paired domain" to be a count (representing the number of visits this domain received), followed by a space, followed by the address. An example of a count-paired domain might be "9001 discuss.leetcode.com".
+Now, call a "count-paired domain" to be a count (representing the number of visits this domain received), followed by a space, followed by the address. An example of a count-paired domain might be "9001 discuss.leetcode-cn.com".
 
 We are given a list cpdomains of count-paired domains. We would like a list of count-paired domains, (in the same format as the input, and in any order), that explicitly counts the number of visits to each subdomain.
 
 ```text
 Example 1:
 Input:
-["9001 discuss.leetcode.com"]
+["9001 discuss.leetcode-cn.com"]
 Output:
-["9001 discuss.leetcode.com", "9001 leetcode.com", "9001 com"]
+["9001 discuss.leetcode-cn.com", "9001 leetcode-cn.com", "9001 com"]
 Explanation:
-We only have one website domain: "discuss.leetcode.com". As discussed above, the subdomain "leetcode.com" and "com" will also be visited. So they will all be visited 9001 times.
+We only have one website domain: "discuss.leetcode-cn.com". As discussed above, the subdomain "leetcode-cn.com" and "com" will also be visited. So they will all be visited 9001 times.
 ```
 
 ```text

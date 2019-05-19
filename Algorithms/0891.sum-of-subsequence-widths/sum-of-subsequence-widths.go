@@ -22,7 +22,7 @@ func sumSubseqWidths(a []int) int {
 }
 
 /**
- * https://leetcode.com/problems/sum-of-subsequence-widths/discuss/161267/C++Java1-line-Python-Sort-and-One-Pass
+ * https://leetcode-cn.com/problems/sum-of-subsequence-widths/discuss/161267/C++Java1-line-Python-Sort-and-One-Pass
  * For A[i]:
  * There are i smaller numbers,
  * so there are 2 ^ i sequences in which A[i] is maximum.

@@ -1,4 +1,4 @@
-# [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
+# [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
 
 ## 题目
 Design a data structure that supports all following operations in average O(1) time.

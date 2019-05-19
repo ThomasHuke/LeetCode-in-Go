@@ -1,4 +1,4 @@
-# [67. Add Binary](https://leetcode.com/problems/add-binary/)
+# [67. Add Binary](https://leetcode-cn.com/problems/add-binary/)
 
 ## 题目
 Given two binary strings, return their sum (also a binary string).

@@ -1,4 +1,4 @@
-# [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+# [87. Scramble String](https://leetcode-cn.com/problems/scramble-string/)
 
 ## 题目
 Given a string s1, we may represent it as a binary tree by partitioning it to two non-empty substrings recursively.

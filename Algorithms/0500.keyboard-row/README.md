@@ -1,10 +1,10 @@
-# [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+# [500. Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/)
 
 ## 题目
 
 Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard like the image below.
 
-![pic](https://leetcode.com/static/images/problemset/keyboard.png)
+![pic](https://leetcode-cn.com/static/images/problemset/keyboard.png)
 
 Example 1:
 

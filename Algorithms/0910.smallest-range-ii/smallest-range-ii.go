@@ -4,7 +4,7 @@ import (
 	"sort"
 )
 
-// ref: https://leetcode.com/problems/smallest-range-ii/discuss/173377/C++JavaPython-Add-0-or-2-*-K
+// ref: https://leetcode-cn.com/problems/smallest-range-ii/discuss/173377/C++JavaPython-Add-0-or-2-*-K
 
 func smallestRangeII(A []int, k int) int {
 	sort.Ints(A)

@@ -1,4 +1,4 @@
-# [155. Min Stack](https://leetcode.com/problems/min-stack/)
+# [155. Min Stack](https://leetcode-cn.com/problems/min-stack/)
 
 ## 题目
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.

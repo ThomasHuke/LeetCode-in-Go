@@ -1,4 +1,4 @@
-# [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+# [934. Shortest Bridge](https://leetcode-cn.com/problems/shortest-bridge/)
 
 In a given 2D binary array `A`, there are two islands.  (An island is a 4-directionally connected group of `1s` not connected to any other 1s.)
 

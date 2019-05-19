@@ -1,6 +1,6 @@
 package problem0239
 
-// 参看 https://leetcode.com/problems/sliding-window-maximum/discuss/65881/O(n)-solution-in-Java-with-two-simple-pass-in-the-array
+// 参看 https://leetcode-cn.com/problems/sliding-window-maximum/discuss/65881/O(n)-solution-in-Java-with-two-simple-pass-in-the-array
 func maxSlidingWindow(nums []int, k int) []int {
 	size := len(nums)
 	if k <= 1 {

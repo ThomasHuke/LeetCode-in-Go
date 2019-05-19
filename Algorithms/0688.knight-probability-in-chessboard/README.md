@@ -1,4 +1,4 @@
-# [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+# [688. Knight Probability in Chessboard](https://leetcode-cn.com/problems/knight-probability-in-chessboard/)
 
 ## 题目
 
@@ -6,7 +6,7 @@ On an NxN chessboard, a knight starts at the r-th row and c-th column and attemp
 
 A chess knight has 8 possible moves it can make, as illustrated below. Each move is two squares in a cardinal direction, then one square in an orthogonal direction.
 
-![](https://leetcode.com/static/images/problemset/knight.png)
+![](https://leetcode-cn.com/static/images/problemset/knight.png)
 
 Each time the knight is to move, it chooses one of eight possible moves uniformly at random (even if the piece would go off the chessboard) and moves there.
 

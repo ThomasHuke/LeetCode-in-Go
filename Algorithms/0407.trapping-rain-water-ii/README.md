@@ -1,4 +1,4 @@
-# [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
+# [407. Trapping Rain Water II](https://leetcode-cn.com/problems/trapping-rain-water-ii/)
 
 ## 题目
 
@@ -20,11 +20,11 @@ Given the following 3x6 height map:
 Return 4.
 ```
 
-![p1](https://leetcode.com/static/images/problemset/rainwater_empty.png)
+![p1](https://leetcode-cn.com/static/images/problemset/rainwater_empty.png)
 
 The above image represents the elevation map [[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]] before the rain.
 
-![p2](https://leetcode.com/static/images/problemset/rainwater_fill.png)
+![p2](https://leetcode-cn.com/static/images/problemset/rainwater_fill.png)
 
 After the rain, water are trapped between the blocks. The total volume of water trapped is 4.
 

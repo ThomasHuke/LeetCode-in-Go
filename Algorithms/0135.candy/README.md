@@ -1,4 +1,4 @@
-# [135. Candy](https://leetcode.com/problems/candy/)
+# [135. Candy](https://leetcode-cn.com/problems/candy/)
 
 ## 题目
 There are N children standing in a line. Each child is assigned a rating value. 

@@ -1,4 +1,4 @@
-# [762. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)
+# [762. Find Anagram Mappings](https://leetcode-cn.com/problems/find-anagram-mappings/)
 
 ## 题目
 

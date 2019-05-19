@@ -1,6 +1,6 @@
 package problem0918
 
-// ref: https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/178422/C++JavaPython-One-Pass
+// ref: https://leetcode-cn.com/problems/maximum-sum-circular-subarray/discuss/178422/C++JavaPython-One-Pass
 
 func maxSubarraySumCircular(A []int) int {
 	total, curMax, curMin := 0, 0, 0

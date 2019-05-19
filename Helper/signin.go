@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	loginPageURL = "https://leetcode.com/accounts/login/"
+	loginPageURL = "https://leetcode-cn.com/accounts/login/"
 )
 
 var req *request.Request
@@ -32,7 +32,7 @@ func signin() *request.Request {
 	// 配置request
 	req.Headers = map[string]string{
 		"Accept-Encoding": "",
-		"Referer":         "https://leetcode.com/",
+		"Referer":         "https://leetcode-cn.com/",
 	}
 
 	// login

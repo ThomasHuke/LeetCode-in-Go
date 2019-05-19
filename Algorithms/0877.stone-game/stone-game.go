@@ -28,4 +28,4 @@ func max(a, b int) int {
 	return b
 }
 
-// https://leetcode.com/problems/stone-game/discuss/154610/C++JavaPython-DP-or-Just-return-true
+// https://leetcode-cn.com/problems/stone-game/discuss/154610/C++JavaPython-DP-or-Just-return-true

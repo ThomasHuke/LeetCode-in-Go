@@ -1,4 +1,4 @@
-# [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
+# [966. Vowel Spellchecker](https://leetcode-cn.com/problems/vowel-spellchecker/)
 
 Given a `wordlist`, we want to implement a spellchecker that converts a query word into a correct word.
 

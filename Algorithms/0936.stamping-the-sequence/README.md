@@ -1,4 +1,4 @@
-# [936. Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
+# [936. Stamping The Sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)
 
 You want to form a target string of lowercase letters.
 

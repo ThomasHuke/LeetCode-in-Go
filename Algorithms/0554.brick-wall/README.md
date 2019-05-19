@@ -1,4 +1,4 @@
-# [554. Brick Wall](https://leetcode.com/problems/brick-wall/)
+# [554. Brick Wall](https://leetcode-cn.com/problems/brick-wall/)
 
 ## 题目
 
@@ -24,7 +24,7 @@ Output: 2
 ```
 
 Explanation:
-![](https://leetcode.com/static/images/problemset/brick_wall.png)
+![](https://leetcode-cn.com/static/images/problemset/brick_wall.png)
 Note:
 
 1. The width sum of bricks in different rows are the same and won't exceed INT_MAX.

@@ -1,4 +1,4 @@
-# [77. Combinations](https://leetcode.com/problems/combinations/)
+# [77. Combinations](https://leetcode-cn.com/problems/combinations/)
 
 ## 题目
 Given two integers n and k, return all possible combinations of k numbers out of 1 ... n.

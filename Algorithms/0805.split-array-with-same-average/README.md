@@ -1,4 +1,4 @@
-# [805. Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
+# [805. Split Array With Same Average](https://leetcode-cn.com/problems/split-array-with-same-average/)
 
 ## 题目
 

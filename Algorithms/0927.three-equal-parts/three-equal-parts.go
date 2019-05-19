@@ -1,6 +1,6 @@
 package problem0927
 
-// ref: https://leetcode.com/problems/three-equal-parts/discuss/183922/C++-O(n)-time-O(1)-space-12-ms-with-explanation-and-comments
+// ref: https://leetcode-cn.com/problems/three-equal-parts/discuss/183922/C++-O(n)-time-O(1)-space-12-ms-with-explanation-and-comments
 
 var noPossible = []int{-1, -1}
 

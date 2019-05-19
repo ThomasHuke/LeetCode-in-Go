@@ -1,6 +1,6 @@
 package problem0843
 
-import "github.com/aQuaYi/LeetCode-in-Go/kit"
+import "github.com/imgoogege/LeetCode-in-Go/kit"
 
 // Master is the Master's API interface.
 // You should not implement it, or speculate about its implementation
@@ -8,7 +8,7 @@ import "github.com/aQuaYi/LeetCode-in-Go/kit"
 // func (this *Master) Guess(word string) int {}
 type Master = kit.Master
 
-// 解答参考 https://leetcode.com/problems/guess-the-word/discuss/133862/Random-Guess-and-Minimax-Guess-with-Comparison
+// 解答参考 https://leetcode-cn.com/problems/guess-the-word/discuss/133862/Random-Guess-and-Minimax-Guess-with-Comparison
 
 func findSecretWord(wordList []string, master *Master) {
 	matches := 0

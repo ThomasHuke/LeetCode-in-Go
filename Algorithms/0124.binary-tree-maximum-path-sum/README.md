@@ -1,4 +1,4 @@
-# [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+# [124. Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 
 ## 题目
 Given a binary tree, find the maximum path sum.

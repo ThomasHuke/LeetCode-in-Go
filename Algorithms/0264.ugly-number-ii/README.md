@@ -1,4 +1,4 @@
-# [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+# [264. Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)
 
 ## 题目
 Write a program to find the n-th ugly number.

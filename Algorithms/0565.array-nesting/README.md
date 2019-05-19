@@ -1,4 +1,4 @@
-# [565. Array Nesting](https://leetcode.com/problems/array-nesting/)
+# [565. Array Nesting](https://leetcode-cn.com/problems/array-nesting/)
 
 ## 题目
 A zero-indexed array A consisting of N different integers is given. The array contains all integers in the range [0, N - 1]. 

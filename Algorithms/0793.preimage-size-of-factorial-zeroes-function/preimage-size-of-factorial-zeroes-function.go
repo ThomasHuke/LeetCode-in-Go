@@ -1,6 +1,6 @@
 package problem0793
 
-// https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/discuss/117821/Four-binary-search-solutions-based-on-different-ideas
+// https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/discuss/117821/Four-binary-search-solutions-based-on-different-ideas
 
 func preimageSizeFZF(k int) int {
 	l, r := 0, 5*(k+1)

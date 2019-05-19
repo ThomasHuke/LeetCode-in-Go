@@ -1,4 +1,4 @@
-# [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
+# [576. Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/)
 
 ## 题目
 
@@ -12,7 +12,7 @@ Output: 6
 ```
 
 Explanation:
-![p1](https://leetcode.com/static/images/problemset/out_of_boundary_paths_1.png)
+![p1](https://leetcode-cn.com/static/images/problemset/out_of_boundary_paths_1.png)
 
 Example 2:
 
@@ -22,7 +22,7 @@ Output: 12
 ```
 
 Explanation:
-![p2](https://leetcode.com/static/images/problemset/out_of_boundary_paths_2.png)
+![p2](https://leetcode-cn.com/static/images/problemset/out_of_boundary_paths_2.png)
 
 Note:
 

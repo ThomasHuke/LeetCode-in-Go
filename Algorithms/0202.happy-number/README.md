@@ -1,4 +1,4 @@
-# [202. Happy Number](https://leetcode.com/problems/happy-number/)
+# [202. Happy Number](https://leetcode-cn.com/problems/happy-number/)
 
 ## 题目
 Write an algorithm to determine if a number is "happy".

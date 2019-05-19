@@ -1,4 +1,4 @@
-# [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/)
+# [984. String Without AAA or BBB](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/)
 
 Given two integers A and B, return any string S such that:
 

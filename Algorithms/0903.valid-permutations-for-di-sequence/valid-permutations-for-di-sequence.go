@@ -2,7 +2,7 @@ package problem0903
 
 const mod = 1e9 + 7
 
-// ref: https://leetcode.com/problems/valid-permutations-for-di-sequence/discuss/168278/C++JavaPython-DP-Solution-O(N2)
+// ref: https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/discuss/168278/C++JavaPython-DP-Solution-O(N2)
 func numPermsDISequence(S string) int {
 	n := len(S)
 

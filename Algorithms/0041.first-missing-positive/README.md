@@ -1,4 +1,4 @@
-# [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+# [41. First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)
 
 ## 题目
 Given an unsorted integer array, find the first missing positive integer.

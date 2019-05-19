@@ -1,4 +1,4 @@
-# [926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
+# [926. Flip String to Monotone Increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)
 
 A string of `0`s and `1`s is monotone increasing if it consists of some number of `0`s (possibly 0), followed by some number of `1`s (also possibly 0.)
 

@@ -1,7 +1,7 @@
 package problem0113
 
 import (
-	"github.com/aQuaYi/LeetCode-in-Go/kit"
+	"github.com/imgoogege/LeetCode-in-Go/kit"
 )
 
 type TreeNode = kit.TreeNode

@@ -1,4 +1,4 @@
-# [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+# [980. Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/)
 
 On a 2-dimensional `grid`, there are 4 types of squares:
 

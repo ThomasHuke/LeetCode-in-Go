@@ -14,8 +14,8 @@ var tcs = []struct {
 }{
 
 	{
-		"LeetCode@LeetCode.com",
-		"l*****e@leetcode.com",
+		"LeetCode@leetcode-cn.com",
+		"l*****e@leetcode-cn.com",
 	},
 
 	{

@@ -1,4 +1,4 @@
-# [100. Same Tree](https://leetcode.com/problems/same-tree/)
+# [100. Same Tree](https://leetcode-cn.com/problems/same-tree/)
 
 ## 题目
 Given two binary trees, write a function to check if they are equal or not.

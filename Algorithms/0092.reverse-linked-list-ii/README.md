@@ -1,4 +1,4 @@
-# [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+# [92. Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 
 ## 题目
 Reverse a linked list from position m to n. Do it in-place and in one-pass.

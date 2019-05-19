@@ -1,6 +1,6 @@
 package problem0960
 
-// ref: https://leetcode.com/problems/delete-columns-to-make-sorted-iii/discuss/205679/C%2B%2BJavaPython-Maximum-Increasing-Subsequence
+// ref: https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/discuss/205679/C%2B%2BJavaPython-Maximum-Increasing-Subsequence
 
 func minDeletionSize(A []string) int {
 	m, n := len(A), len(A[0])

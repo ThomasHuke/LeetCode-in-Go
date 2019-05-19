@@ -1,6 +1,6 @@
 package problem0920
 
-// ref: https://leetcode.com/problems/number-of-music-playlists/discuss/178415/C++JavaPython-DP-Solution
+// ref: https://leetcode-cn.com/problems/number-of-music-playlists/discuss/178415/C++JavaPython-DP-Solution
 
 const mod = 1e9 + 7
 

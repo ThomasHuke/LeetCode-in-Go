@@ -1,4 +1,4 @@
-# [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+# [463. Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/)
 
 ## 题目
 
@@ -16,7 +16,7 @@ Answer: 16
 Explanation: The perimeter is the 16 yellow stripes in the image below:
 ```
 
-![pic](https://leetcode.com/static/images/problemset/island.png)
+![pic](https://leetcode-cn.com/static/images/problemset/island.png)
 
 ## 解题思路
 

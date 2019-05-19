@@ -1,7 +1,7 @@
 package problem0382
 
 import (
-	"github.com/aQuaYi/LeetCode-in-Go/kit"
+	"github.com/imgoogege/LeetCode-in-Go/kit"
 	"math/rand"
 )
 

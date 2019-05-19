@@ -1,4 +1,4 @@
-# [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+# [85. Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)
 
 ## 题目
 Given a 2D binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.

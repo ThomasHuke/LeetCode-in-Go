@@ -1,4 +1,4 @@
-# [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+# [119. Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 
 ## 题目
 Given an index k, return the kth row of the Pascal's triangle.

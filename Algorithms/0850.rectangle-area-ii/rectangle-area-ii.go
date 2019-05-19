@@ -4,7 +4,7 @@ import (
 	"sort"
 )
 
-// 思路来自 https://leetcode.com/problems/rectangle-area-ii/discuss/137914/C++Python-Discretization-and-O(NlogN)
+// 思路来自 https://leetcode-cn.com/problems/rectangle-area-ii/discuss/137914/C++Python-Discretization-and-O(NlogN)
 //
 // 可以想象成，
 // 根据 rectangles 中所有的 x 值，在平面上划 竖线

@@ -1,4 +1,4 @@
-# [263. Ugly Number](https://leetcode.com/problems/ugly-number/)
+# [263. Ugly Number](https://leetcode-cn.com/problems/ugly-number/)
 
 ## 题目
 Write a program to check whether a given number is an ugly number.

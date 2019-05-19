@@ -1,6 +1,6 @@
 package problem0923
 
-// refer: https://leetcode.com/problems/3sum-with-multiplicity/discuss/181131/C++JavaPython-O(1012)
+// refer: https://leetcode-cn.com/problems/3sum-with-multiplicity/discuss/181131/C++JavaPython-O(1012)
 
 const mod = 1e9 + 7
 

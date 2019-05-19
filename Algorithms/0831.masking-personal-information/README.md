@@ -1,4 +1,4 @@
-# [831. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)
+# [831. Masking Personal Information](https://leetcode-cn.com/problems/masking-personal-information/)
 
 ## 题目
 
@@ -33,8 +33,8 @@ Return the correct "mask" of the information provided.
 Example 1:
 
 ```text
-Input: "LeetCode@LeetCode.com"
-Output: "l*****e@leetcode.com"
+Input: "LeetCode@leetcode-cn.com"
+Output: "l*****e@leetcode-cn.com"
 Explanation:All names are converted to lowercase, and the letters between the
             first and last letter of the first name is replaced by 5 asterisks.
             Therefore, "leetcode" -> "l*****e".

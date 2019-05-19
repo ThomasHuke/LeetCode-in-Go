@@ -1,4 +1,4 @@
-# [796. Rotate String](https://leetcode.com/problems/rotate-string/)
+# [796. Rotate String](https://leetcode-cn.com/problems/rotate-string/)
 
 ## 题目
 

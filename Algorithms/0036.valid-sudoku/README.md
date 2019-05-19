@@ -1,4 +1,4 @@
-# [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+# [36. Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)
 
 ## 题目
 Determine if a Sudoku is valid, according to: [Sudoku Puzzles - The Rules.](http://sudoku.com.au/TheRules.aspx)

@@ -1,4 +1,4 @@
-# [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+# [58. Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)
 
 ## 题目
 Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.

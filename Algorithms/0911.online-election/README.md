@@ -1,4 +1,4 @@
-# [911. Online Election](https://leetcode.com/problems/online-election/)
+# [911. Online Election](https://leetcode-cn.com/problems/online-election/)
 
 In an election, the `i`-th vote was cast for `persons[i]` at time `times[i]`.
 

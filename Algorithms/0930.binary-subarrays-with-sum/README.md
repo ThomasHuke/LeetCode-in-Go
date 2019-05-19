@@ -1,4 +1,4 @@
-# [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+# [930. Binary Subarrays With Sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)
 
 In an array A of 0s and 1s, how many non-empty subarrays have sum S?
 

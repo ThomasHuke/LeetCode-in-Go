@@ -1,4 +1,4 @@
-# [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+# [132. Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 
 ## 题目
 Given a string s, partition s such that every substring of the partition is a palindrome.

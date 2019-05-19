@@ -1,6 +1,6 @@
 package problem0930
 
-// ref: https://leetcode.com/problems/binary-subarrays-with-sum/discuss/186683/C%2B%2BJavaPython-Straight-Forward
+// ref: https://leetcode-cn.com/problems/binary-subarrays-with-sum/discuss/186683/C%2B%2BJavaPython-Straight-Forward
 
 func numSubarraysWithSum(A []int, S int) int {
 	preSum, res := 0, 0

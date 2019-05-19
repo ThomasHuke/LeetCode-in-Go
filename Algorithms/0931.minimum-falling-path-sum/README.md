@@ -1,4 +1,4 @@
-# [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+# [931. Minimum Falling Path Sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
 
 Given a **square** array of integers `A`, we want the **minimum** sum of a *falling* path through `A`.
 

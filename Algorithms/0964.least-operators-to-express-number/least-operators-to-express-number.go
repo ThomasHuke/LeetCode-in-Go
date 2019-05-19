@@ -1,6 +1,6 @@
 package problem0964
 
-// ref: https://leetcode.com/problems/least-operators-to-express-number/discuss/208376/python2-O(log-target)-chinese
+// ref: https://leetcode-cn.com/problems/least-operators-to-express-number/discuss/208376/python2-O(log-target)-chinese
 
 // 由于不能有括号，所以每一位（x进制）必须是由自己组成或者由下一位减自己余数组成,所以首先短除法求出每一位的余数
 // 在个位的时候，必须用x/x表示1，所以*2，但其它位不用，所以单独先提出

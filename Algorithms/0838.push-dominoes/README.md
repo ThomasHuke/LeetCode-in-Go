@@ -1,4 +1,4 @@
-# [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+# [838. Push Dominoes](https://leetcode-cn.com/problems/push-dominoes/)
 
 ## 题目
 

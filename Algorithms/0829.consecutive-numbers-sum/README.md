@@ -1,4 +1,4 @@
-# [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
+# [829. Consecutive Numbers Sum](https://leetcode-cn.com/problems/consecutive-numbers-sum/)
 
 ## 题目
 
@@ -32,4 +32,4 @@ Note:1 <= N <= 10 ^ 9.
 
 ## 解题思路
 
-<https://leetcode.com/problems/consecutive-numbers-sum/discuss/129015/5-lines-C++-solution-with-detailed-mathematical-explanation>
+<https://leetcode-cn.com/problems/consecutive-numbers-sum/discuss/129015/5-lines-C++-solution-with-detailed-mathematical-explanation>

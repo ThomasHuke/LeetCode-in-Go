@@ -47,7 +47,7 @@ func checkRecord(n int) int {
 		if i > 2 {
 			// 关于下面的表达式，我没有想到数学上的合理解释
 			// 具体来源请参考
-			// https://discuss.leetcode.com/topic/86696/share-my-o-n-c-dp-solution-with-thinking-process-and-explanation/3
+			// https://discuss.leetcode-cn.com/topic/86696/share-my-o-n-c-dp-solution-with-thinking-process-and-explanation/3
 			A[i] = A[i-1] + A[i-2] + A[i-3]
 		}
 	}

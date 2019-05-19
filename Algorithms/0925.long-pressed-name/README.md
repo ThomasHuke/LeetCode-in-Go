@@ -1,4 +1,4 @@
-# [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+# [925. Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/)
 
 Your friend is typing his `name` into a keyboard.  Sometimes, when typing a character `c`, the key might get long pressed, and the character will be typed 1 or more times.
 

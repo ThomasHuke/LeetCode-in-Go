@@ -1,4 +1,4 @@
-# [529. Minesweeper](https://leetcode.com/problems/minesweeper/)
+# [529. Minesweeper](https://leetcode-cn.com/problems/minesweeper/)
 
 ## 题目
 
@@ -35,7 +35,7 @@ Output:
 
 Explanation:
 
-![p1](https://leetcode.com/static/images/problemset/minesweeper_example_1.png)
+![p1](https://leetcode-cn.com/static/images/problemset/minesweeper_example_1.png)
 
 Example 2:
 
@@ -59,7 +59,7 @@ Output:
 
 Explanation:
 
-![p2](https://leetcode.com/static/images/problemset/minesweeper_example_2.png)
+![p2](https://leetcode-cn.com/static/images/problemset/minesweeper_example_2.png)
 
 Note:
 

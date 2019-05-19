@@ -1,4 +1,4 @@
-# [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)
+# [957. Prison Cells After N Days](https://leetcode-cn.com/problems/prison-cells-after-n-days/)
 
 There are 8 prison cells in a row, and each cell is either occupied or vacant.
 

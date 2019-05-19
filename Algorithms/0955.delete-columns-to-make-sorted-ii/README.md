@@ -1,4 +1,4 @@
-# [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)
+# [955. Delete Columns to Make Sorted II](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii/)
 
 We are given an array A of N lowercase letter strings, all of the same length.
 

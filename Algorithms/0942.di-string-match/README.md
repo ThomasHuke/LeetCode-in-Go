@@ -1,4 +1,4 @@
-# [942. DI String Match](https://leetcode.com/problems/di-string-match/)
+# [942. DI String Match](https://leetcode-cn.com/problems/di-string-match/)
 
 Given a string `S` that **only** contains "I" (increase) or "D" (decrease), let N = S.length.
 

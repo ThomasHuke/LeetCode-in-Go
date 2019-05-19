@@ -1,4 +1,4 @@
-# [913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
+# [913. Cat and Mouse](https://leetcode-cn.com/problems/cat-and-mouse/)
 
 A game on an **undirected** graph is played by two players, Mouse and Cat, who alternate turns.
 

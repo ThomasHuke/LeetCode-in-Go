@@ -1,4 +1,4 @@
-# [89. Gray Code](https://leetcode.com/problems/gray-code/)
+# [89. Gray Code](https://leetcode-cn.com/problems/gray-code/)
 
 ## 题目
 The gray code is a binary numeral system where two successive values differ in only one bit.

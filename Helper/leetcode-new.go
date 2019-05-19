@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/aQuaYi/GoKit"
+	"github.com/imgoogege/GoKit"
 )
 
 const (

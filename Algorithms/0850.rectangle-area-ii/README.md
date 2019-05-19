@@ -1,4 +1,4 @@
-# [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+# [850. Rectangle Area II](https://leetcode-cn.com/problems/rectangle-area-ii/)
 
 ## 题目
 

@@ -1,4 +1,4 @@
-# [808. Soup Servings](https://leetcode.com/problems/soup-servings/)
+# [808. Soup Servings](https://leetcode-cn.com/problems/soup-servings/)
 
 ## 题目
 

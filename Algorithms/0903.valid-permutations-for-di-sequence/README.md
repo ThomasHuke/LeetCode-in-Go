@@ -1,4 +1,4 @@
-# [903. Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/)
+# [903. Valid Permutations for DI Sequence](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)
 
 We are given `S`, a length `n` string of characters from the set `{'D', 'I'}`. (These letters stand for "decreasing" and "increasing".)
 

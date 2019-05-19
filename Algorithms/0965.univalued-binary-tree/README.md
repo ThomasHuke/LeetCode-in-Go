@@ -1,4 +1,4 @@
-# [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+# [965. Univalued Binary Tree](https://leetcode-cn.com/problems/univalued-binary-tree/)
 
 A binary tree is univalued if every node in the tree has the same value.
 

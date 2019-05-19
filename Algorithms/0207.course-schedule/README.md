@@ -1,4 +1,4 @@
-# [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+# [207. Course Schedule](https://leetcode-cn.com/problems/course-schedule/)
 
 ## 题目
 There are a total of n courses you have to take, labeled from 0 to n - 1.

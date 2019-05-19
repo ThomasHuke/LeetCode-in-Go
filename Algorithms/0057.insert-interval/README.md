@@ -1,4 +1,4 @@
-# [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+# [57. Insert Interval](https://leetcode-cn.com/problems/insert-interval/)
 
 ## 题目
 Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).

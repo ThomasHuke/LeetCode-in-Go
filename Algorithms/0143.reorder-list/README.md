@@ -1,4 +1,4 @@
-# [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+# [143. Reorder List](https://leetcode-cn.com/problems/reorder-list/)
 
 ## 题目
 Given a singly linked list L: L0->L1->…->Ln-1->Ln,

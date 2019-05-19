@@ -2,7 +2,7 @@ package problem0948
 
 import "sort"
 
-// ref: https://leetcode.com/problems/bag-of-tokens/discuss/197696/C%2B%2BJavaPython-Greedy-%2B-Two-Pointers
+// ref: https://leetcode-cn.com/problems/bag-of-tokens/discuss/197696/C%2B%2BJavaPython-Greedy-%2B-Two-Pointers
 
 func bagOfTokensScore(tokens []int, P int) int {
 	sort.Ints(tokens)

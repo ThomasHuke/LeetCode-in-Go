@@ -1,7 +1,7 @@
 package problem0872
 
 import (
-	"github.com/aQuaYi/LeetCode-in-Go/kit"
+	"github.com/imgoogege/LeetCode-in-Go/kit"
 )
 
 // TreeNode definition for a binary tree node.

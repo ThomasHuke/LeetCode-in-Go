@@ -1,4 +1,4 @@
-# [932. Beautiful Array](https://leetcode.com/problems/beautiful-array/)
+# [932. Beautiful Array](https://leetcode-cn.com/problems/beautiful-array/)
 
 For some fixed `N`, an array `A` is *beautiful* if it is a permutation of the integers `1, 2, ..., N`, such that:
 

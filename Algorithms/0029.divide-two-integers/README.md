@@ -1,4 +1,4 @@
-# [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+# [29. Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)
 
 ## 题目
 Divide two integers without using multiplication, division and mod operator.

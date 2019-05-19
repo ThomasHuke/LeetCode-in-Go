@@ -1,4 +1,4 @@
-# [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+# [69. Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)
 
 ## 题目
 Implement int sqrt(int x).

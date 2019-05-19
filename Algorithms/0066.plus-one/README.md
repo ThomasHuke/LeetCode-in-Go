@@ -1,4 +1,4 @@
-# [66. Plus One](https://leetcode.com/problems/plus-one/)
+# [66. Plus One](https://leetcode-cn.com/problems/plus-one/)
 
 ## 题目
 Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.

@@ -1,4 +1,4 @@
-# [940. Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+# [940. Distinct Subsequences II](https://leetcode-cn.com/problems/distinct-subsequences-ii/)
 
 Given a string S, count the number of distinct, non-empty subsequences of S .
 

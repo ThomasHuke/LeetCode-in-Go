@@ -1,4 +1,4 @@
-# [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+# [943. Find the Shortest Superstring](https://leetcode-cn.com/problems/find-the-shortest-superstring/)
 
 Given an array A of strings, find any smallest string that contains each string in A as a substring.
 

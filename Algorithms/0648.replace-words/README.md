@@ -1,4 +1,4 @@
-# [648. Replace Words](https://leetcode.com/problems/replace-words/)
+# [648. Replace Words](https://leetcode-cn.com/problems/replace-words/)
 
 ## 题目
 

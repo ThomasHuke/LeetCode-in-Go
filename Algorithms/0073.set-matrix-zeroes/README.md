@@ -1,4 +1,4 @@
-# [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+# [73. Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/)
 
 ## 题目
 

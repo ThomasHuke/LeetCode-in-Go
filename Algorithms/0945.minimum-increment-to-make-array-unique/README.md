@@ -1,4 +1,4 @@
-# [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)
+# [945. Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 
 Given an array of integers A, a move consists of choosing any A[i], and incrementing it by 1.
 

@@ -1,4 +1,4 @@
-# [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+# [118. Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)
 
 ## 题目
 Given numRows, generate the first numRows of Pascal's triangle.

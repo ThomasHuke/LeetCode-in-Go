@@ -1,4 +1,4 @@
-# [136. Single Number](https://leetcode.com/problems/single-number/)
+# [136. Single Number](https://leetcode-cn.com/problems/single-number/)
 
 ## 题目
 Given an array of integers, every element appears twice except for one. Find that single one.

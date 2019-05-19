@@ -1,4 +1,4 @@
-# [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)
+# [962. Maximum Width Ramp](https://leetcode-cn.com/problems/maximum-width-ramp/)
 
 Given an array A of integers, a ramp is a tuple (i, j) for which i < j and A[i] <= A[j].  The width of such a ramp is j - i.
 

@@ -1,4 +1,4 @@
-# [937. Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)
+# [937. Reorder Log Files](https://leetcode-cn.com/problems/reorder-log-files/)
 
 You have an array of `logs`.  Each log is a space delimited string of words.
 

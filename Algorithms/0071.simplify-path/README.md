@@ -1,4 +1,4 @@
-# [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+# [71. Simplify Path](https://leetcode-cn.com/problems/simplify-path/)
 
 ## 题目
 Given an absolute path for a file (Unix-style), simplify it.

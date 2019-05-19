@@ -1,4 +1,4 @@
-# [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+# [916. Word Subsets](https://leetcode-cn.com/problems/word-subsets/)
 
 We are given two arrays `A` and `B` of words.  Each word is a string of lowercase letters.
 

@@ -1,4 +1,4 @@
-# [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+# [211. Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)
 
 ## 题目
 Design a data structure that supports the following two operations:

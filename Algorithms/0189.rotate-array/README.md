@@ -1,4 +1,4 @@
-# [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+# [189. Rotate Array](https://leetcode-cn.com/problems/rotate-array/)
 
 ## 题目
 
@@ -14,7 +14,7 @@ Hint:
 Could you do it in-place with O(1) extra space?
 
 
-Related problem: [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)
+Related problem: [Reverse Words in a String II](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii/)
 
 ## 解题思路
 ###  三次翻转

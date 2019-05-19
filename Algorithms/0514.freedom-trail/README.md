@@ -1,4 +1,4 @@
-# [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/)
+# [514. Freedom Trail](https://leetcode-cn.com/problems/freedom-trail/)
 
 ## 题目
 
@@ -15,7 +15,7 @@ At the stage of rotating the ring to spell the key character key[i]:
 
 Example:
 
-![pic](https://leetcode.com/static/images/problemset/ring.jpg)
+![pic](https://leetcode-cn.com/static/images/problemset/ring.jpg)
 
 ```text
 Input: ring = "godding", key = "gd"

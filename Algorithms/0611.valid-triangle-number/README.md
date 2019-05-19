@@ -1,4 +1,4 @@
-# [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
+# [611. Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)
 
 ## 题目
 Given an array consists of non-negative integers,  your task is to count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.

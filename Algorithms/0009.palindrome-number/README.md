@@ -1,4 +1,4 @@
-# [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+# [9. Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)
 
 ## 题目
 Determine whether an integer is a palindrome. Do this without extra space.

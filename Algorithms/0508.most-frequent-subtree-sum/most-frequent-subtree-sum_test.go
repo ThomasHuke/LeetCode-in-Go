@@ -5,7 +5,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/aQuaYi/LeetCode-in-Go/kit"
+	"github.com/imgoogege/LeetCode-in-Go/kit"
 
 	"github.com/stretchr/testify/assert"
 )

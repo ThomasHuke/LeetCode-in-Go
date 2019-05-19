@@ -2,7 +2,7 @@ package problem0936
 
 import "strings"
 
-// ref: https://leetcode.com/problems/stamping-the-sequence/discuss/189254/Python-Greedy-and-DFS
+// ref: https://leetcode-cn.com/problems/stamping-the-sequence/discuss/189254/Python-Greedy-and-DFS
 
 func movesToStamp(stamp string, target string) []int {
 	s, t := []byte(stamp), []byte(target)

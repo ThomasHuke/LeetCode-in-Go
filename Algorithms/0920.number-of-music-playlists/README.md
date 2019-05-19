@@ -1,4 +1,4 @@
-# [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+# [920. Number of Music Playlists](https://leetcode-cn.com/problems/number-of-music-playlists/)
 
 Your music player contains `N` different songs and she wants to listen to `L` (not necessarily different) songs during your trip.  You create a playlist so that:
 

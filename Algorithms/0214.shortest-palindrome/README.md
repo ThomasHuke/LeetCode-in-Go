@@ -1,4 +1,4 @@
-# [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+# [214. Shortest Palindrome](https://leetcode-cn.com/problems/shortest-palindrome/)
 
 ## 题目
 Given a string S, you are allowed to convert it to a palindrome by adding characters in front of it. Find and return the shortest palindrome you can find by performing this transformation.

@@ -1,4 +1,4 @@
-# [313. Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
+# [313. Super Ugly Number](https://leetcode-cn.com/problems/super-ugly-number/)
 
 ## 题目
 Write a program to find the nth super ugly number.

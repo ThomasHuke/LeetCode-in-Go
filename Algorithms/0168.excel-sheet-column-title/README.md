@@ -1,4 +1,4 @@
-# [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+# [168. Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 
 ## 题目
 Given a positive integer, return its corresponding column title as appear in an Excel sheet.

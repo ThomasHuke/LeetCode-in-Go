@@ -15,8 +15,8 @@ var tcs = []struct {
 }{
 
 	{
-		[]string{"9001 discuss.leetcode.com"},
-		[]string{"9001 discuss.leetcode.com", "9001 leetcode.com", "9001 com"},
+		[]string{"9001 discuss.leetcode-cn.com"},
+		[]string{"9001 discuss.leetcode-cn.com", "9001 leetcode-cn.com", "9001 com"},
 	},
 
 	{

@@ -1,6 +1,6 @@
 package problem0932
 
-// ref: https://leetcode.com/problems/beautiful-array/discuss/186679/C%2B%2BJavaPython-Odd-%2B-Even-Pattern-O(N)
+// ref: https://leetcode-cn.com/problems/beautiful-array/discuss/186679/C%2B%2BJavaPython-Odd-%2B-Even-Pattern-O(N)
 //
 
 func beautifulArray(N int) []int {

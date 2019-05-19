@@ -1,4 +1,4 @@
-# [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+# [498. Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)
 
 ## 题目
 
@@ -18,7 +18,7 @@ Output:  [1,2,4,7,5,3,6,8,9]
 
 Explanation:
 
-![pic](https://leetcode.com/static/images/problemset/diagonal_traverse.png)
+![pic](https://leetcode-cn.com/static/images/problemset/diagonal_traverse.png)
 
 Note:
 

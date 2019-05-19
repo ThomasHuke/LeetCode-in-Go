@@ -1,4 +1,4 @@
-# [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+# [172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
 
 ## 题目
 Given an integer n, return the number of trailing zeroes in n!.

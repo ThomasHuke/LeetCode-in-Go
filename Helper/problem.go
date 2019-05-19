@@ -47,7 +47,7 @@ func (p problem) Dir() string {
 }
 
 func (p problem) link() string {
-	return fmt.Sprintf("https://leetcode.com/problems/%s/", p.TitleSlug)
+	return fmt.Sprintf("https://leetcode-cn.com/problems/%s/", p.TitleSlug)
 }
 
 func (p problem) tableLine() string {
@@ -75,7 +75,7 @@ func (p problem) tableLine() string {
 	// 收藏
 	f := ""
 	if p.IsFavor {
-		f = "[❤](https://leetcode.com/list/oussv5j)"
+		f = "[❤](https://leetcode-cn.com/list/oussv5j)"
 	}
 	res += fmt.Sprintf("%s|\n", f)
 

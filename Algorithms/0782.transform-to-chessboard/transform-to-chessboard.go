@@ -99,4 +99,4 @@ func min(a, b int) int {
 	return b
 }
 
-// 本题来自于 https://leetcode.com/problems/transform-to-chessboard/discuss/114847/Easy-and-Concise-Solution-with-Explanation-C++JavaPython
+// 本题来自于 https://leetcode-cn.com/problems/transform-to-chessboard/discuss/114847/Easy-and-Concise-Solution-with-Explanation-C++JavaPython

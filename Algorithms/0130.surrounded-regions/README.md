@@ -1,4 +1,4 @@
-# [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+# [130. Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/)
 
 ## 题目
 Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.

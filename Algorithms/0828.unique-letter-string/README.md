@@ -1,4 +1,4 @@
-# [828. Unique Letter String](https://leetcode.com/problems/unique-letter-string/)
+# [828. Unique Letter String](https://leetcode-cn.com/problems/unique-letter-string/)
 
 ## 题目
 
@@ -38,7 +38,7 @@ Note: 0 <= S.length <= 10000.
 
 ## 解题思路
 
-from <https://leetcode.com/problems/unique-letter-string/discuss/128952/One-pass-O(N)-Straight-Forward>
+from <https://leetcode-cn.com/problems/unique-letter-string/discuss/128952/One-pass-O(N)-Straight-Forward>
 
 Intuition:
 

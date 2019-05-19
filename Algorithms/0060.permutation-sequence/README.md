@@ -1,4 +1,4 @@
-# [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+# [60. Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/)
 
 ## 题目
 The set `[1,2,3,…,n]` contains a total of n! unique permutations.

@@ -1,4 +1,4 @@
-# [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
+# [639. Decode Ways II](https://leetcode-cn.com/problems/decode-ways-ii/)
 
 ## 题目
 A message containing letters from `A-Z` is being encoded to numbers using the following mapping way:

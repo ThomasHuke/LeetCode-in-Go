@@ -1,4 +1,4 @@
-# [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+# [38. Count and Say](https://leetcode-cn.com/problems/count-and-say/)
 
 ## 题目
 The count-and-say sequence is the sequence of integers with the first five terms as following:

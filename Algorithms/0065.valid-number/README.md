@@ -1,4 +1,4 @@
-# [65. Valid Number](https://leetcode.com/problems/valid-number/)
+# [65. Valid Number](https://leetcode-cn.com/problems/valid-number/)
 
 ## 题目
 Validate if a given string is numeric.

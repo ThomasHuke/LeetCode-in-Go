@@ -1,4 +1,4 @@
-# [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+# [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 
 ## 题目
 Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.

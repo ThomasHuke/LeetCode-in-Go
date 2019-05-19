@@ -1,4 +1,4 @@
-# [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+# [165. Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)
 
 ## 题目
 Compare two version numbers version1 and version2.

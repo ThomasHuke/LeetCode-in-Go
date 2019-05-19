@@ -1,4 +1,4 @@
-# [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+# [949. Largest Time for Given Digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)
 
 Given an array of 4 digits, return the largest 24 hour time that can be made.
 

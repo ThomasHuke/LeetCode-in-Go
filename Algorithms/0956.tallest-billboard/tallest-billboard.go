@@ -1,6 +1,6 @@
 package problem0956
 
-// ref: https://leetcode.com/problems/tallest-billboard/discuss/203181/JavaC%2B%2BPython-DP-min(O(SN2)-O(3N2-*-N)
+// ref: https://leetcode-cn.com/problems/tallest-billboard/discuss/203181/JavaC%2B%2BPython-DP-min(O(SN2)-O(3N2-*-N)
 
 const maxDiff = 5001
 

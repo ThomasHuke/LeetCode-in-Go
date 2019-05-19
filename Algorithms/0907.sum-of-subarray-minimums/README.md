@@ -1,4 +1,4 @@
-# [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+# [907. Sum of Subarray Minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)
 
 Given an array of integers `A`, find the sum of `min(B)`, where `B` ranges over every (contiguous) subarray of `A`.
 

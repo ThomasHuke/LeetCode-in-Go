@@ -14,7 +14,7 @@ func findMinMoves(machines []int) int {
 		res = max(max(res, abs(cnt)), m-avg)
 	}
 	// 解题思路
-	// https://leetcode.com/problems/super-washing-machines/discuss/
+	// https://leetcode-cn.com/problems/super-washing-machines/discuss/
 
 	return res
 }

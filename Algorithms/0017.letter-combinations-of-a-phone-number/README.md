@@ -1,4 +1,4 @@
-# [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+# [17. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
 ## 题目
 Given a digit string, return all possible letter combinations that the number could represent.

@@ -1,4 +1,4 @@
-# [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+# [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
 ## 题目
 Given a linked list, swap every two adjacent nodes and return its head.

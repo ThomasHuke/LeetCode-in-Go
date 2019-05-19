@@ -1,4 +1,4 @@
-# [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)
+# [657. Judge Route Circle](https://leetcode-cn.com/problems/judge-route-circle/)
 
 ## 题目
 

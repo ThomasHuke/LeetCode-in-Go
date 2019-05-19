@@ -1,4 +1,4 @@
-# [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+# [52. N-Queens II](https://leetcode-cn.com/problems/n-queens-ii/)
 
 ## 题目
 Follow up for N-Queens problem.

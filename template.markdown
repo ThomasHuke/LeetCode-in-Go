@@ -1,8 +1,8 @@
-# [LeetCode](https://leetcode.com) 的 Go 解答 {{- /* 本文件是用来生成 README.md 的模板 */}}
+# [LeetCode](https://leetcode-cn.com) 的 Go 解答 {{- /* 本文件是用来生成 README.md 的模板 */}}
 
-[![LeetCode 排名](https://img.shields.io/badge/{{.Username}}-{{.Ranking}}-blue.svg)](https://leetcode.com/{{.Username}}/)
-[![codecov](https://codecov.io/gh/aQuaYi/LeetCode-in-Go/branch/master/graph/badge.svg)](https://codecov.io/gh/aQuaYi/LeetCode-in-Go)
-[![Build Status](https://www.travis-ci.org/aQuaYi/LeetCode-in-Go.svg?branch=master)](https://www.travis-ci.org/aQuaYi/LeetCode-in-Go)
+[![LeetCode 排名](https://img.shields.io/badge/{{.Username}}-{{.Ranking}}-blue.svg)](https://leetcode-cn.com/{{.Username}}/)
+[![codecov](https://codecov.io/gh/imgoogege/LeetCode-in-Go/branch/master/graph/badge.svg)](https://codecov.io/gh/imgoogege/LeetCode-in-Go)
+[![Build Status](https://www.travis-ci.org/imgoogege/LeetCode-in-Go.svg?branch=master)](https://www.travis-ci.org/imgoogege/LeetCode-in-Go)
 
 ## 进度
 

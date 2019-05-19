@@ -1,4 +1,4 @@
-# [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+# [39. Combination Sum](https://leetcode-cn.com/problems/combination-sum/)
 
 ## 题目
 Given a set of candidate numbers (C) (without duplicates) and a target number (T), find all unique combinations in C where the candidate numbers sums to T.

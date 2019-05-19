@@ -1,6 +1,6 @@
 package problem0913
 
-// ref: https://leetcode.com/problems/cat-and-mouse/discuss/176177/Most-of-the-DFS-solutions-are-WRONG-check-this-case
+// ref: https://leetcode-cn.com/problems/cat-and-mouse/discuss/176177/Most-of-the-DFS-solutions-are-WRONG-check-this-case
 
 func catMouseGame(graph [][]int) int {
 	n := len(graph)

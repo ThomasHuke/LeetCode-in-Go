@@ -1,4 +1,4 @@
-# [756. Pour Water](https://leetcode.com/problems/pour-water/)
+# [756. Pour Water](https://leetcode-cn.com/problems/pour-water/)
 
 ## 题目
 

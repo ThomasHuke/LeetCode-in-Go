@@ -1,4 +1,4 @@
-# [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+# [222. Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 
 Given a complete binary tree, count the number of nodes.
 

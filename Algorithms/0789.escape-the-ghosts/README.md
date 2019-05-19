@@ -1,4 +1,4 @@
-# [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)
+# [789. Escape The Ghosts](https://leetcode-cn.com/problems/escape-the-ghosts/)
 
 ## 题目
 

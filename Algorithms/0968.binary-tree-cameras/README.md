@@ -1,4 +1,4 @@
-# [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+# [968. Binary Tree Cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)
 
 Given a binary tree, we install cameras on the nodes of the tree. 
 

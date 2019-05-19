@@ -1,4 +1,4 @@
-# [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+# [493. Reverse Pairs](https://leetcode-cn.com/problems/reverse-pairs/)
 
 ## 题目
 

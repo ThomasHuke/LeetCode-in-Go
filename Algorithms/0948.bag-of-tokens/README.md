@@ -1,4 +1,4 @@
-# [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+# [948. Bag of Tokens](https://leetcode-cn.com/problems/bag-of-tokens/)
 
 You have an initial power P, an initial score of 0 points, and a bag of tokens.
 
